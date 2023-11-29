@@ -1,0 +1,6 @@
+*logs*
+*pycache*
+.env
+gx*
+images*
+plugins*
