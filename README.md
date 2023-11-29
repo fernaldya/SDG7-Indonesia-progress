@@ -5,6 +5,8 @@
 
 Name: Fernaldy Aristo Wirjowerdojo
 
+Batch: HCK-009
+
 ### Project Information
 This project is the final output of Phase 2 in the Full Time Data Science Programme from Hacktiv8. The programme was created to simulate working with Docker for ETL and visualisation with Kibana
 
